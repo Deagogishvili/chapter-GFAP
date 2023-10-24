@@ -8,4 +8,5 @@ Glial fibrillary acidic protein (GFAP) is a promising biomarker for brain and sp
 
 Keywords: GFAP, dementia biomarkers, neurodegenerative diseases
 
-![image](/figures/StudyOverview.png)
+![image](/figures/StudyOutline.png)
+Figure 1. Outline of the study. In this study we first investigated recombinant GFAP from different sources using intact mass analysis and proteolytic digestion to confirm reported sequences. After selecting the optimal preparation, based on our results, we moved on to investigate the structural changes of GFAP under different conditions.
