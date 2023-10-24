@@ -17,4 +17,4 @@ Colour settings:
 - The highest value in red is 5.30778 (#ffff1d8a1d8a)
 - No values - (#cec4a2b93f9f)
 
-![image](/AlphaFold_Dimer_HT.png)
+![image](AlphaFold_Dimer_HT.png)
