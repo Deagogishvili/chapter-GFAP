@@ -8,7 +8,7 @@
 How to use them to create the same figures as in the manuscript: 
 
 - Open the PDB file of the monomer. Then in the upper menu select tools > structure analysis > define attributes and then load the define_attributes_monomer.txt file. It should do the trick. 
-- For the dimer structure, you can do the same for both chains. First, select chain A and define attributes, and then the same with the chain B. 
+- For the dimer structure, you can do the same for both chains. First, select chain A and define attributes, and then the same with chain B. 
 
 Colour settings: 
 
